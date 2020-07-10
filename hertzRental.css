@@ -1,0 +1,87 @@
+
+span {
+	display: block;
+}
+
+.storeName{
+	background-color: #000000;
+	margin-left: -165px;
+	margin-right: -165px;
+	height: 50px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+}
+
+#reservation{
+	float: right;
+    margin-top: -50px;
+    margin-right: 20px;
+}
+
+#hertz{
+	float: left;
+	font-size: 30px;
+	color: #D6AC0F;
+	font-weight: bold;
+	background: white;
+	margin-top: 3px;
+}
+
+.row {
+	padding-bottom:30px;
+
+}
+
+.carContainer {
+	margin: 0 10px 10px 0;
+	padding-bottom: 10px;
+    background-color: white;
+    border: 1px solid grey;
+    max-width: 24%;
+}
+
+.required:after{
+	content: " *";
+	font-size: 15px;
+	color: red
+}
+
+.addCart{
+	padding: 8px;
+}
+
+#carDisplayRow{
+	width: 100%;
+	padding: 20px;
+}
+
+.carLoadImage{
+	width: 90%;
+}
+
+.input{
+	width: 200%;
+}
+
+.label{
+	width: 50%;
+}
+.pay{
+	padding: 20px;
+	font-size: 25px;
+	margin-left: -20px;
+}
+
+.description {
+  width: 225px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.description:hover{
+    overflow: visible; 
+    white-space: normal;
+    height:auto;
+}

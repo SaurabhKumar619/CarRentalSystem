@@ -1,0 +1,32 @@
+h2{
+	text-align: center;
+	padding: 10px 0;
+}
+
+.header {
+	padding: 20px 0;
+}
+
+.col-sm-2 {
+	display: inline-block;
+	font-weight: bold;
+}
+
+.addedCarDetails {
+	height: 130px;
+	padding: 0;
+}
+
+.rentalDays {
+	width: 100px;
+}
+
+.delete {
+	margin-left: 70px;
+    width: 100px;
+}
+
+#checkout{
+	margin-left: -50px; 
+	width: 150px;
+}

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+	<category>
+		<id>1000</id>
+		<car-type>Sedan</car-type>
+		<brand>Toyota</brand>
+		<model>Camry</model>
+		<model-year>2013</model-year>
+		<mileage>10000</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$270</price_per_day>
+		<availability>True</availability>
+		<image>cars/Camry.jpg</image>
+		<description>The beauty of the design and brilliance of power will leave a lasting impression.</description>
+	</category>	
+	<category>	
+		<id>1001</id>
+		<car-type>Sedan</car-type>
+		<brand>BMW</brand>
+		<model>320i</model>
+		<model-year>2019</model-year>
+		<mileage>12000</mileage>
+		<fuel-type>Diesel</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$190</price_per_day>
+		<availability>True</availability>
+		<image>cars/320i.jpg</image>
+		<description>The BMW 320i, awarded as the car of the year of 2019. With class and power.</description>
+	</category>		
+	<category>
+		<id>1002</id>
+		<car-type>Sedan</car-type>
+		<brand>Honda</brand>
+		<model>Civic</model>
+		<model-year>2018</model-year>
+		<mileage>12500</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$260</price_per_day>
+		<availability>True</availability>
+		<image>cars/Civic.jpg</image>
+		<description>The bold styling of the car with beautiful interior and power efficient will never let you leave the car and walk.</description>
+	</category>
+	<category>
+		<id>1003</id>
+		<car-type>Sedan</car-type>
+		<brand>Mercedes</brand>
+		<model>GLC</model>
+		<model-year>2019</model-year>
+		<mileage>17500</mileage>
+		<fuel-type>Diesel</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$240</price_per_day>
+		<availability>False</availability>
+		<image>cars/GLC.jpg</image>
+		<description>Available in various range of colours. A cheap deal for a family car.</description>
+	</category>
+	<category>
+		<id>1004</id>
+		<car-type>Sedan</car-type>
+		<brand>Hyundai</brand>
+		<model>Sonata</model>
+		<model-year>2018</model-year>
+		<mileage>19000</mileage>
+		<fuel-type>Diesel</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$300</price_per_day>
+		<availability>False</availability>
+		<image>cars/Sonata.jpg</image>
+		<description>Considered as one of the best midsize car.It is made with plenty of quality materials. </description>
+	</category>
+    <category>
+    	<id>1005</id>
+		<car-type>SUV</car-type>
+		<brand>Jeep</brand>
+		<model>Cherokee</model>
+		<model-year>2019</model-year>
+		<mileage>9000</mileage>
+		<fuel-type>Diesel</fuel-type>
+		<seats>7</seats>
+		<price_per_day>$450</price_per_day>
+		<availability>True</availability>
+		<image>cars/Cherokee.jpg</image>
+		<description>This 7 seater giant is the best car to drive with family. Perfect for the long road trips.</description>
+	</category>
+	<category>
+		<id>1006</id>
+		<car-type>SUV</car-type>
+		<brand>Suzuki</brand>
+		<model>Jimny</model>
+		<model-year>2019</model-year>
+		<mileage>1050</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>7</seats>
+		<price_per_day>$550</price_per_day>
+		<availability>True</availability>
+		<image>cars/Jimny.jpg</image>
+		<description>The Suzuki Jimny is designed for adventure. The compact size of the SUV allows you to drive smoothly.</description>
+	</category>
+	<category>
+		<id>1007</id>
+		<car-type>SUV</car-type>
+		<brand>Nissan</brand>
+		<model>X-trail</model>
+		<model-year>2015</model-year>
+		<mileage>1950</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>7</seats>
+		<price_per_day>$460</price_per_day>
+		<availability>True</availability>
+		<image>cars/X-trail.jpg</image>
+		<description>The toughest car designed so far. Easy to ride car with a spacious interior and beautiful exterior design. Perfect car for you.</description>
+	</category>
+	<category>
+		<id>1008</id>
+		<car-type>SUV</car-type>
+		<brand>Kia</brand>
+		<model>Seltos</model>
+		<model-year>2020</model-year>
+		<mileage>1350</mileage>
+		<fuel-type>Diesel</fuel-type>
+		<seats>7</seats>
+		<price_per_day>$570</price_per_day>
+		<availability>True</availability>
+		<image>cars/seltos.jpg</image>
+		<description>This car is a dream car and has a fusion of cutting-edge design with an inbuilt latest technologies installed inside.</description>
+	</category>
+	<category>
+		<id>1009</id>
+		<car-type>Wagon</car-type>
+		<brand>Holden</brand>
+		<model>Captiva</model>
+		<model-year>2015</model-year>
+		<mileage>14500</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$160</price_per_day>
+		<availability>False</availability>
+		<image>cars/Captiva.jpg</image>
+		<description>The spacious and light-weighted wagon is easy to drive car. It is considered as one of the best wagon car of 2019</description>
+	</category>
+	<category>
+		<id>1010</id>
+		<car-type>Wagon</car-type>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<model-year>2017</model-year>
+		<mileage>16500</mileage>
+		<fuel-type>CNG</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$180</price_per_day>
+		<availability>True</availability>
+		<image>cars/Golf.jpg</image>
+		<description>The Volkswagen Golf has a spacious interior and gives a comfortable ride which is suited best for everyday driving.</description>
+	</category>
+	<category>
+		<id>1011</id>
+		<car-type>Wagon</car-type>
+		<brand>Kia</brand>
+		<model>Rondo-S</model>
+		<model-year>2017</model-year>
+		<mileage>20500</mileage>
+		<fuel-type>Petrol</fuel-type>
+		<seats>5</seats>
+		<price_per_day>$150</price_per_day>
+		<availability>False</availability>
+		<image>cars/rondoS.jpg</image>
+		<description>The Kia Rondo is an affordable and small family car. It also has an option to use the hatchback for larger items whenever required.</description>
+	</category>
+	
+
+</cars>
